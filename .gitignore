@@ -2,3 +2,4 @@ data/
 venv/
 *.zip  
 venv2/
+mnist-multiple-dataset-comprehensive-analysis/
